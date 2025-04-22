@@ -4,21 +4,6 @@ Welcome! This repository showcases my personal and academic projects in data ana
 
 ---
 
-## 📁 Projects
-
-- 📈 **Time Series Forecasting with NVIDIA Stock Data**  
-  Predictive modeling using ARIMA, ETS, and neural networks in R 
-    👉 [View Repository](https://github.com/nhuphann/financial-forecasting-nvda.git)
-
-- 🔬 **Morphine Pain Perception Study**  
-  ANOVA-based experimental analysis using R and simulated block design  
-    👉 [View Repository](https://github.com/nhuphann/morphine-pain-study.git)
- 
-- 📊 **Advertising Effects on Sales**  
-  Linear regression model to evaluate TV, radio, and newspaper effectiveness on sales 
-    👉 [View Repository](https://github.com/nhuphann/advertising-regression.git)
-
-
   ## 📁 Projects
 
 - 📈 **Time Series Forecasting with NVIDIA Stock Data**  
