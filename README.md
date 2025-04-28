@@ -18,12 +18,15 @@ Welcome! This repository showcases my personal and academic projects in data ana
   Linear regression model to evaluate TV, radio, and newspaper effectiveness on sales  
   👉 [View Repository](https://github.com/nhuphann/advertising-regression.git)
 
+- 📈 **Financial Indicator Classification**  
+  Classification of stocks based on over 200 financial indicators to predict 2018 stock price movements, using logistic regression, LDA, QDA, and kNN models in R  
+  👉 [View Repository](https://github.com/nhuphann/financial-indicator-classification.git)
 
 ---
 
 ## 🧠 Skills & Tools
 
-- 💻 **Programming Languages**: `R` (Tidyverse, Forecast, caret), 🐍 `Python` (pandas, NumPy, statsmodels, matplotlib, scikit-learn)
+- 💻 **Programming Languages**: `R`, 🐍 `Python` (pandas, NumPy, statsmodels, matplotlib, scikit-learn)
 - 📊 **Data Analysis & Modeling**: Statistical inference, time series forecasting, ANOVA, regression, power analysis
 - 📈 **Visualization & Reporting**: ggplot2, matplotlib, LaTeX, R Markdown
 - 🔁 **Version Control**: Git + GitHub for collaboration and reproducibility
